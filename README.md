@@ -14,12 +14,12 @@
 
 ## Notable Projects
 <ul style="list-style-type: none; padding: 0;">
-  <li>Anime Streaming App for Android</li>
-  <li>Anime Website (still in progress)</li>
-  <li>ChatBox (still in progress)</li>
+  <li>Simple ERC-20 Token (Private Repo)</li>
+  <li>Ecommerce Store</li>
+  <li>Exchange Website for CFA to NGN</li>
   <li>Python Keylogger</li>
-  <li>Trollz Ecommerce Store (App And Web)</li>
-  <li>DiscreetNet (A developer hub and forum)</li>
+  <li>Sol Wallet (Private Repo)</li>
+  <li>Plan Form (Dev Toolkit) Private Repo</li>
 </ul>
 
 ## Anime Inspiration 🌟
