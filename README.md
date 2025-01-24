@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Tomiwa Raphael
 
 ## About Me
-<p style="font-size: 1.2em;">I'm a passionate Fullstack developer with 7 years of overall development experience. I enjoy solving complex problems and building practical solutions using multiple programming languages.</p>
+<p style="font-size: 1.2em;">I'm a passionate Fullstack developer with 8 years of overall development experience. I enjoy solving complex problems and building practical solutions using multiple programming languages.</p>
 
 ## Skills
 <ul style="list-style-type: none; padding: 0;">
