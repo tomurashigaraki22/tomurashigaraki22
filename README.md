@@ -1,44 +1,188 @@
-# Hi there! 👋 I'm Tomiwa Raphael
+# Tomiwa Raphael
+
+Fullstack Engineer • Blockchain Developer • Systems Architect
+
+---
 
 ## About Me
 
-<p style="font-size: 1.2em;">I'm a passionate Fullstack Developer with 8+ years of hands‑on experience building production‑ready systems, scalable APIs, blockchain tooling, and high‑performance web and mobile applications. I specialize in solving tough engineering problems and transforming ideas into fully functional products.</p>
+I am a software engineer with **8+ years of hands-on development experience**, building production systems across web, mobile, and blockchain infrastructure.
+
+I focus on shipping real, scalable products that handle real users and real traffic — not prototypes.
+
+My work spans:
+- backend systems designed for production scale
+- mobile apps with real-time feeds, chat, and media delivery
+- blockchain infrastructure and cross-chain tooling
+- API architecture for distributed systems
+- turning complex ideas into working production systems quickly
+
+I operate at the intersection of **social platforms, fintech systems, AI tooling, and Web3 infrastructure**, with a strong execution-first engineering approach.
 
 ---
 
-## Skills & Expertise
+## Core Stack
 
-<ul style="list-style-type: none; padding: 0;">
-  <li><strong>Programming Languages:</strong> Python, JavaScript, TypeScript, Java, C#</li>
-  <li><strong>Frameworks & Libraries:</strong> React, React Native, Next.js, Node.js, Express, Django, Flask, .NET</li>
-  <li><strong>Blockchain Development:</strong> Solana (Web3.js), Ethereum (ethers.js), Sui (Mysten), WAXP tooling, wallet generation & encryption flows, smart contract interactions, keypair utilities</li>
-  <li><strong>DevOps & Tools:</strong> PM2, Docker (basics), CI/CD pipelines</li>
-  <li><strong>Databases:</strong> MySQL, MongoDB, SQLite</li>
-  <li><strong>Version Control:</strong> Git & GitHub</li>
-</ul>
+### Languages
+- Python
+- JavaScript / TypeScript
+- Java
+- C#
+
+### Frontend / Mobile
+- React
+- Next.js
+- React Native (Expo + bare workflow)
+
+### Backend
+- Node.js (Express)
+- Flask
+- Django
+- .NET (API systems)
+
+### Databases
+- MySQL
+- MongoDB
+- SQLite
+
+### DevOps / Infrastructure
+- Linux VPS deployment
+- Docker (basic production usage)
+- PM2 process management
+- WebSockets (real-time systems)
+- REST API architecture
 
 ---
 
-## Notable Work & Projects
+## Blockchain & Web3 Work
 
-<p style="font-size: 1.05em;">A mix of personal projects, production‑level builds, and blockchain tooling created across different chats and real development experience:</p>
+I build infrastructure-level blockchain systems and developer tooling.
 
-<ul style="list-style-type: none; padding: 0;">
-  <li><strong>Cross‑Chain Wallet Tooling</strong> — Implemented wallet generation, encryption & decryption stacks for Solana, Sui, and WAXP, including secure private‑key flows and RPC integrations.</li>
-  <li><strong>Solana Dev Tools</strong> — Built scripts for automated keypair generation, BS58 encoding, and devnet faucet funding with append‑safe logging.</li>
-  <li><strong>WAXP Wallet Context</strong> — Created a React/Next.js context modeled after Sui’s architecture, enabling on‑chain interactions and wallet state management.</li>
-  <li><strong>Blockchain Credential Platform</strong> (BlockCred – In Progress) — Developing decentralized credential verification on Sui, targeting universities, HR platforms, and Web3 companies across Africa & the US.</li>
-  <li><strong>ERC‑20 Token Implementation</strong> (Private Repo) — Built a minimal and secure token contract for learning and private use.</li>
-  <li><strong>Ecommerce Store</strong> — Fullstack store with product management, authentication, and payments.</li>
-  <li><strong>CFA ↔ NGN Exchange Platform</strong> — Simple exchange website with rate logic and dynamic UI.</li>
-  <li><strong>Python Keylogger</strong> — Educational cybersecurity tool for understanding system‑level input tracking.</li>
-  <li><strong>Plan Form Developer Toolkit</strong> (Private Repo) — A utility toolkit for automating repetitive dev tasks.</li>
-</ul>
+### Experience:
+- Wallet generation and encryption flows
+- Secure private key handling systems
+- RPC integration layers
+- Cross-chain interaction logic
+- On-chain state management systems
 
+### Chains:
+- Solana (Web3.js, devnet automation, keypairs)
+- Ethereum (ethers.js, ERC-20 systems)
+- Sui (Mysten SDK, credential systems)
+- WAXP (wallet context + interaction layers)
 
+---
 
-## Contact Me
+## Major Projects
 
-<p style="text-align: center; margin-top: 20px;">Reach out via email at <a href="mailto:emmanuelhudson355@gmail.com" style="text-decoration: none; color: #007AFF;">emmanuelhudson355@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/emmanuel-hudson-03099b266" target="_blank" style="text-decoration: none; color: #007AFF;">LinkedIn</a> and <a href="tel:+2348071273078" style="text-decoration: none; color: #007AFF;">WhatsApp</a>.</p>
+### BlockCred (In Progress)
+Decentralized credential verification system built on Sui.
 
-<p style="text-align: center; font-size: 1.1em; margin-top: 15px;">Let's collaborate and build amazing things!</p>
+Focus:
+- verifiable academic and professional credentials
+- blockchain-based identity layer
+- HR and university integrations
+- scalable credential infrastructure for global use
+
+---
+
+### RippleVids
+Short-form video social platform.
+
+Focus:
+- TikTok-style feed architecture
+- user profiles and engagement systems
+- video upload and streaming pipeline
+- scalable media infrastructure for high user interaction
+
+---
+
+### Ripplebids
+Crypto-enabled bidding and marketplace system.
+
+Focus:
+- bidding mechanics for digital and physical assets
+- crypto-based transaction flows
+- real-time bid updates
+- backend-first marketplace architecture
+
+---
+
+### WatchUp.site
+Developer observability and monitoring platform (Sentry alternative)
+
+Focus:
+- real-time error tracking with full stack traces
+- API and backend performance monitoring
+- uptime monitoring for services and endpoints
+- alerting system (Email, Telegram, Slack, Webhooks)
+- lightweight SDK integration for web and mobile apps
+- production-focused debugging and observability tools
+
+Positioning:
+A lightweight, developer-first observability platform designed for teams that want fast, simple, and production-ready monitoring without heavy enterprise complexity.
+
+---
+
+### Real-time Ride & Chat System
+- WebSocket-based communication layer
+- ride session binding via IDs
+- driver ↔ user chat rooms
+- event-driven updates (start/end ride, notifications)
+
+---
+
+### Ecommerce System
+- product management system
+- authentication flows
+- payment integration
+- admin and user role systems
+
+---
+
+### FX / Exchange Tooling
+- CFA ↔ NGN exchange platform
+- dynamic rate logic
+- lightweight financial UI system
+
+---
+
+### Security / Systems Tools
+- Python-based input tracking tool (educational cybersecurity exploration)
+- developer automation utilities for repetitive engineering workflows
+
+---
+
+## Engineering Style
+
+I build systems with:
+- backend-first architecture
+- strict API boundaries
+- real-time capability where required
+- performance-aware design decisions
+- production deployment mindset from day one
+
+I prioritize shipping working systems over theoretical perfection.
+
+---
+
+## Current Focus
+
+- social + fintech hybrid platforms
+- blockchain identity and credential systems
+- real-time mobile infrastructure (feeds, chat, notifications)
+- AI-assisted media and developer tooling
+- Web3 infrastructure systems
+
+---
+
+## Contact
+
+- Email: devtomiwa9@gmail.com  
+- WhatsApp: +2347044831729  
+
+---
+
+## Closing
+
+The goal is simple: build systems that actually run in production and scale under real-world usage.
